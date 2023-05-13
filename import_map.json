@@ -10,6 +10,7 @@
     "twind": "https://esm.sh/@twind/core@1.1.3",
     "twind/": "https://esm.sh/@twind/core@1.1.3/",
     "@twind/preset-tailwind": "https://esm.sh/@twind/preset-tailwind@1.1.4",
-    "@twind/preset-tailwind/": "https://esm.sh/@twind/preset-tailwind@1.1.4/"
+    "@twind/preset-tailwind/": "https://esm.sh/@twind/preset-tailwind@1.1.4/",
+    "tailwindcss": "https://esm.sh/tailwindcss@3.3.2"
   }
 }

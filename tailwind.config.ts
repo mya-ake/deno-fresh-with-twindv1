@@ -1,4 +1,4 @@
-import type { Config } from "https://esm.sh/tailwindcss@3.3.2";
+import type { Config } from "tailwindcss";
 
 const config: Config = {
   theme: {
