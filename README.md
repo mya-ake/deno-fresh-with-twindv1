@@ -5,7 +5,7 @@
 I would like to make Tailwind CSS class name suggestions work in Fresh.
 [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) is intented to work.
 
-![Screenshot of Tailwind CSS IntelliSense functioning](https://github.com/mya-ake/deno-fresh-with-twindv1/docs_assets/screenshot.png)
+![Screenshot of Tailwind CSS IntelliSense functioning](https://github.com/mya-ake/deno-fresh-with-twindv1/blob/main/docs_assets/screenshot.png)
 
 ## How to work
 
